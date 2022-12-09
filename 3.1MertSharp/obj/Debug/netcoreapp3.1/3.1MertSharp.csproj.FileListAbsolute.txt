@@ -1,0 +1,14 @@
+D:\repos\3.1MertSharp\3.1MertSharp\bin\Debug\netcoreapp3.1\3.1MertSharp.exe
+D:\repos\3.1MertSharp\3.1MertSharp\bin\Debug\netcoreapp3.1\3.1MertSharp.deps.json
+D:\repos\3.1MertSharp\3.1MertSharp\bin\Debug\netcoreapp3.1\3.1MertSharp.runtimeconfig.json
+D:\repos\3.1MertSharp\3.1MertSharp\bin\Debug\netcoreapp3.1\3.1MertSharp.runtimeconfig.dev.json
+D:\repos\3.1MertSharp\3.1MertSharp\bin\Debug\netcoreapp3.1\3.1MertSharp.dll
+D:\repos\3.1MertSharp\3.1MertSharp\bin\Debug\netcoreapp3.1\3.1MertSharp.pdb
+D:\repos\3.1MertSharp\3.1MertSharp\obj\Debug\netcoreapp3.1\3.1MertSharp.csproj.AssemblyReference.cache
+D:\repos\3.1MertSharp\3.1MertSharp\obj\Debug\netcoreapp3.1\3.1MertSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\3.1MertSharp\3.1MertSharp\obj\Debug\netcoreapp3.1\3.1MertSharp.AssemblyInfoInputs.cache
+D:\repos\3.1MertSharp\3.1MertSharp\obj\Debug\netcoreapp3.1\3.1MertSharp.AssemblyInfo.cs
+D:\repos\3.1MertSharp\3.1MertSharp\obj\Debug\netcoreapp3.1\3.1MertSharp.csproj.CoreCompileInputs.cache
+D:\repos\3.1MertSharp\3.1MertSharp\obj\Debug\netcoreapp3.1\3.1MertSharp.dll
+D:\repos\3.1MertSharp\3.1MertSharp\obj\Debug\netcoreapp3.1\3.1MertSharp.pdb
+D:\repos\3.1MertSharp\3.1MertSharp\obj\Debug\netcoreapp3.1\3.1MertSharp.genruntimeconfig.cache
