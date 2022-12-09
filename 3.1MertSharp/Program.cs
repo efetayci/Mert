@@ -13,6 +13,8 @@ namespace _3._1MertSharp
         private int b;
         protected int c;
 
+        int d=3;
+
         public void fun()
         {
             Console.Write("Base class" + " " + c);
